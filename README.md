@@ -1,2 +1,1 @@
-# dtsproject.github.io
-dts-project
+# dts-project
